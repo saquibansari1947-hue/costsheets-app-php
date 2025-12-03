@@ -70,8 +70,3 @@ I successfully completed this assignment and passed the evaluation.
 - Layout matches the provided sample  
 - Supports dynamic values  
 - Download + display options  
-
-### ✔ Clean Routing  
-- `/` → Form Page  
-- `/save` → Save form to DB  
-- `/pdf/{id}` → Generate PDF for that record  
