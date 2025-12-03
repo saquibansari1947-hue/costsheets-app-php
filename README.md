@@ -75,7 +75,3 @@ I successfully completed this assignment and passed the evaluation.
 - `/` → Form Page  
 - `/save` → Save form to DB  
 - `/pdf/{id}` → Generate PDF for that record  
-
----
-
-## 📂 Project Structure (Simplified)
